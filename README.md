@@ -11,6 +11,7 @@ Practising GUI (gtk lib) in C++ by creating few projects
 | Calculator | [source](code02.cpp) |
 | Clock app | [source](code03.cpp) |
 | Text editor | [source](code04.cpp) |
+| Tic tac toe  | [source](code05.cpp) |
 
 ## Tools :-
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
